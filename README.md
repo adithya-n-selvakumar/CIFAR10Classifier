@@ -25,7 +25,7 @@ This project implements a Convolutional Neural Network (CNN) that achieves over 
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/CIFAR10Classifier.git
+git clone https://github.com/adithya-n-selvakumar/CIFAR10Classifier.git
 cd CIFAR10Classifier
 
 2. Install the required packages:
