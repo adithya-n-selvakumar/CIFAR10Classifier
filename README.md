@@ -1,6 +1,6 @@
 ## Overview
 
-This project implements a Convolutional Neural Network (CNN) that achieves over 99.5% accuracy on the CIFAR-10 dataset using PyTorch. The model incorporates several advanced techniques to enhance performance and generalization.
+This project implements a Convolutional Neural Network (CNN) that achieves over 85% accuracy on the CIFAR-10 dataset using PyTorch. The model incorporates several advanced techniques to enhance performance and generalization.
 
 ## Features
 
